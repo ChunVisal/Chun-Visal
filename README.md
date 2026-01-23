@@ -2,7 +2,7 @@
 ### 🖤 Full Stack Developer & Tech Enthusiast
 
 <p align="center">
-   <img src="https://github.com/giphy.webp/" alt="GitHub Octocat" />
+   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Cool GIF" />
 </p>
 
 ## About Me
