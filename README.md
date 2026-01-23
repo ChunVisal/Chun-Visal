@@ -2,8 +2,9 @@
 ### 🖤 Full Stack Developer & Tech Enthusiast
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chunvisal/repo/main/avatar.gif" alt="Animated Avatar" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Cool Avatar" />
 </p>
+
 
 ## About Me
 I’m a passionate IT Engineering student in Year 3, learning **Full Stack Development** and cybersecurity.  
