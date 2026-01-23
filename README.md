@@ -2,7 +2,7 @@
 ### 🖤 Full Stack Developer & Tech Enthusiast
 
 <p align="center">
-   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Cool GIF" />
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjEwbjJ4c2U1bG40M2d4amExbmk5czN" alt="Cool GIF" />
 </p>
 
 ## About Me
