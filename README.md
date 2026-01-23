@@ -2,7 +2,7 @@
 ### 🖤 Full Stack Developer & Tech Enthusiast
 
 <p align="center">
-   <img src="https://octodex.github.com/nuxtocat/" alt="GitHub Octocat" />
+   <img src="https://github.com/giphy.webp/" alt="GitHub Octocat" />
 </p>
 
 ## About Me
