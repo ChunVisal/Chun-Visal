@@ -1,10 +1,15 @@
 # Hi, I’m Joe Narthan
 ### Full Stack Developer & Tech Enthusiast
 
+## Tech Stack
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js"/>
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase"/>
@@ -15,7 +20,7 @@
 ## About Me
 I’m a Year 3 IT Engineering student focused on becoming a **full-stack developer**.  
 I love building projects and learning new technologies like **React, Node.js, Vue, SQL, and Firebase**.  
-Currently, I’m working on portfolio projects and preparing for internships to level up my career.
+Currently, I’m working on portfolio projects and preparing for internships.
 
 ---
 
@@ -27,7 +32,7 @@ Currently, I’m working on portfolio projects and preparing for internships to 
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chunvisal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joenarhtan&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
