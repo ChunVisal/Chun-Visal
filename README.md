@@ -2,7 +2,7 @@
 
 I am building project Full stack Wed Development, Daily day focus on prblem-solving and real world projects
 
-<p align="center" style="padding: 20px 0;">
+<p align="center" style="padding: 20 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
