@@ -2,31 +2,7 @@
 
 ###
 
-<div align="center">
-
-<table style="border:1px solid #444; border-radius:12px; padding:10px;">
-  <tr>
-    <td align="center">
-
-      <img src="https://skillicons.dev/icons?i=html" height="60" />
-      <img src="https://skillicons.dev/icons?i=css" height="60" />
-      <img src="https://skillicons.dev/icons?i=js" height="60" />
-      <img src="https://skillicons.dev/icons?i=react" height="60" />
-      <img src="https://skillicons.dev/icons?i=vue" height="60" />
-      <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" height="60" />
-      <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-      <img src="https://skillicons.dev/icons?i=express" height="60" />
-      <img src="https://skillicons.dev/icons?i=firebase" height="60" />
-      <img src="https://skillicons.dev/icons?i=mysql" height="60" />
-      <img src="https://skillicons.dev/icons?i=git" height="60" />
-      <img src="https://skillicons.dev/icons?i=github" height="60" />
-
-    </td>
-  </tr>
-</table>
-
-</div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=express" height="60" alt="express" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=git" height="60" alt="git" /> <img width="10" /> <img src="https://skillicons.dev/icons?i=github" height="60" alt="github" /> </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/visal-sal-54b615349">
